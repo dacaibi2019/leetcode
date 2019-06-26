@@ -1,4 +1,3 @@
-1.code:
 
 ```go
 package main
