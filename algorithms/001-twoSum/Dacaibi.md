@@ -1,12 +1,6 @@
-1.code：
 
 ```go
-/*
-@Time : 2019/6/7 0007 19:11 
-@Author : Yixiang
-@File : main
-@Software: GoLand
-*/
+
 package main
 
 import (
